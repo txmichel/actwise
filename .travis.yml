@@ -6,8 +6,8 @@ install:
   - gem install jekyll jekyll-paginate html-proofer
 
 script:
-  - jekyll build
-  - htmlproof --check-html --external_only --href-swap 'http\://blog\.actwise\.de':'' ./_site
+  - rake build
+  - rake test
 
 branches:
   only:
