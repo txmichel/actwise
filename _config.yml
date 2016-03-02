@@ -3,9 +3,7 @@ title: ActWise
 tagline: A minimalistic blog
 email: thomas@actwise.de
 description: > # this means to ignore newlines until "baseurl"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+   A minimalistic blog about topics I care or I want to share - My fith chakra so to say...
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.actwise.de" # the base hostname & protocol for your site
 twitter_username: h0lz0hr
